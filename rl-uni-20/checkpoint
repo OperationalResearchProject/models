@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/gpruvost/Documents/perso/ulco/QAPLearning/rl-uni-model/"
+all_model_checkpoint_paths: "/home/gpruvost/Documents/perso/ulco/QAPLearning/rl-uni-model/"
