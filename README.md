@@ -5,3 +5,7 @@
 ### rl-uni-20
  - number of footprints for the training : 2000
  - success of prediction after training : 73,675 %
+
+### rl-uni-30
+ - number of footprints for the training : 2000
+ - success of prediction after training : 76.05%
